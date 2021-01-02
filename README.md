@@ -19,5 +19,12 @@ This script installs :
  - The official Ubuntu Multiverse repo
  - The Google Chrome repo
  - The Brave Browser repo
- - The checkra1n repo
- - The spotify repo
+ - The Checkra1n repo
+ - The Spotify repo
+
+This script removes : 
+ - libreoffice-base
+ - libreoffice-math
+ 
+And after this, it does a cleanup, by running apt autoremove.
+This file is literally 1 line of "code", feel free to modify it, to include your software in :)
