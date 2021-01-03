@@ -8,8 +8,6 @@ This script installs :
  - curl 
  - gnupg 
  - checkra1n 
- - brave-browser 
- - spotify-client 
  - steam 
  - kodi 
  - qt5ct 
@@ -18,9 +16,7 @@ This script installs :
  The repos added are : 
  - The official Ubuntu Multiverse repo
  - The Google Chrome repo
- - The Brave Browser repo
  - The Checkra1n repo
- - The Spotify repo
 
 This script removes : 
  - libreoffice-base
