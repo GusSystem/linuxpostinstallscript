@@ -13,10 +13,12 @@ This script installs :
  - kodi 
  - qt5ct 
  - qt5-style-plugins
+ - brave-browser
  
  The repos added are : 
  - The official Ubuntu Multiverse repo
  - The Google Chrome repo
+ - The Brave Browser repo
  - The Spotify Repo
  - The Checkra1n repo
 
