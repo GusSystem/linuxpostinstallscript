@@ -4,6 +4,7 @@ This script installs :
  - libreoffice 
  - google-chrome-stable 
  - vlc 
+ - spotify-client
  - apt-transport-https 
  - curl 
  - gnupg 
@@ -16,6 +17,7 @@ This script installs :
  The repos added are : 
  - The official Ubuntu Multiverse repo
  - The Google Chrome repo
+ - The Spotify Repo
  - The Checkra1n repo
 
 This script removes : 
